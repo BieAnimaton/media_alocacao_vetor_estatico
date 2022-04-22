@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650560142 source:c:\users\bie_animation\onedrive\desktop\importants\eep\laboratório de estrutura de dados\exercícios\exercícios programa das médias\vetor_alocação_estática\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
